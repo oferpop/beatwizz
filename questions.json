@@ -1,0 +1,183 @@
+[
+    {
+        "question": "מי היה המנהל המוזיקלי של הביטלס?",
+        "options": [
+            "בריאן אפשטיין",
+            "ג'ורג' מרטין",
+            "בילי פרסטון",
+            "פיט בסט"
+        ],
+        "answer": "ג'ורג' מרטין"
+    },
+    {
+        "question": "מה היה שמו המלא של רינגו סטאר?",
+        "options": [
+            "ריצ'רד סטארקי",
+            "רוברט רינגו",
+            "ג'ון סטאר",
+            "רינגו סמית'"
+        ],
+        "answer": "ריצ'רד סטארקי"
+    },
+    {
+        "question": "באיזו שנה יצא האלבום 'רבר סול'?",
+        "options": [
+            "1965",
+            "1967",
+            "1969",
+            "1970"
+        ],
+        "answer": "1965"
+    },
+    {
+        "question": "מה היה השיר הראשון שהביטלס הקליטו באמריקה?",
+        "options": [
+            "I Want to Hold Your Hand",
+            "Twist and Shout",
+            "Hey Jude",
+            "Come Together"
+        ],
+        "answer": "I Want to Hold Your Hand"
+    },
+    {
+        "question": "איזה אלבום הוא האלבום האחרון שהביטלס הקליטו יחד כלהקה?",
+        "options": [
+            "Let It Be",
+            "Abbey Road",
+            "The Beatles (The White Album)",
+            "Yellow Submarine"
+        ],
+        "answer": "Abbey Road"
+    },
+    {
+        "question": "מי כתב את השיר 'Yesterday' של הביטלס?",
+        "options": [
+            "ג'ון לנון ופול מקרטני",
+            "פול מקרטני",
+            "ג'ורג' הריסון",
+            "רינגו סטאר"
+        ],
+        "answer": "פול מקרטני"
+    },
+    {
+        "question": "איזה שיר של הביטלס נכנס למקום הראשון במצעדים בארה\"ב בפברואר 1964?",
+        "options": [
+            "I Want to Hold Your Hand",
+            "She Loves You",
+            "Please Please Me",
+            "Love Me Do"
+        ],
+        "answer": "I Want to Hold Your Hand"
+    },
+    {
+        "question": "איזה סרט של הביטלס הוא הסרט הראשון שהם כיכבו בו?",
+        "options": [
+            "Help!",
+            "A Hard Day's Night",
+            "Yellow Submarine",
+            "Magical Mystery Tour"
+        ],
+        "answer": "A Hard Day's Night"
+    },
+  
+    {
+        "question": "מהו שם הסינגל הראשון שהביטלס הוציאו?",
+        "options": [
+            "Love Me Do",
+            "She Loves You",
+            "Please Please Me",
+            "Twist and Shout"
+        ],
+        "answer": "Love Me Do"
+    },
+    {
+        "question": "מי מהביטלס נחשב ל'השקט' בלהקה?",
+        "options": [
+            "ג'ון לנון",
+            "פול מקרטני",
+            "ג'ורג' הריסון",
+            "רינגו סטאר"
+        ],
+        "answer": "ג'ורג' הריסון"
+    },
+    {
+        "question": "באיזה שנה התפרקה להקת הביטלס?",
+        "options": [
+            "1969",
+            "1970",
+            "1971",
+            "1972"
+        ],
+        "answer": "1970"
+    },
+    {
+        "question": "איזה אלבום של הביטלס הוא הנמכר ביותר?",
+        "options": [
+            "Sgt. Pepper's Lonely Hearts Club Band",
+            "Abbey Road",
+            "The Beatles (The White Album)",
+            "Revolver"
+        ],
+        "answer": "The Beatles (The White Album)"
+    },
+    {
+        "question": "איזה שיר של הביטלס נכתב על ידי ג'ון לנון עבור בנו ג'וליאן?",
+        "options": [
+            "Hey Jude",
+            "Lucy in the Sky with Diamonds",
+            "Let It Be",
+            "The Long and Winding Road"
+        ],
+        "answer": "Hey Jude"
+    },
+    {
+        "question": "באיזה סרט הופיעה להקת הביטלס בשנת 1964?",
+        "options": [
+            "A Hard Day's Night",
+            "Help!",
+            "Yellow Submarine",
+            "Magical Mystery Tour"
+        ],
+        "answer": "A Hard Day's Night"
+    },
+    {
+        "question": "איזה שיר של הביטלס הוא השיר הנכתב הראשון של ג'ורג' הריסון?",
+        "options": [
+            "Something",
+            "Here Comes the Sun",
+            "While My Guitar Gently Weeps",
+            "Taxman"
+        ],
+        "answer": "Taxman"
+    },
+    {
+        "question": "איזה שיר של הביטלס זכה בפרס גראמי עבור השיר האולפן הטוב ביותר ב-1968?",
+        "options": [
+            "Hey Jude",
+            "Revolution",
+            "Lady Madonna",
+            "Ob-La-Di, Ob-La-Da"
+        ],
+        "answer": "Hey Jude"
+    },
+    {
+        "question": "מי צילם את תמונת העטיפה של אלבום 'Abbey Road' של הביטלס?",
+        "options": [
+            "רינגו סטאר",
+            "איין מקמילן",
+            "לינדה מקרטני",
+            "אנדי וורהול"
+        ],
+        "answer": "איין מקמילן"
+    },
+    {
+        "question": "איזה אלבום של הביטלס הוא הראשון שנקלט באולפני הקלטות אבי רוד?",
+        "options": [
+            "Please Please Me",
+            "With The Beatles",
+            "Beatles for Sale",
+            "A Hard Day's Night"
+        ],
+        "answer": "Please Please Me"
+    }
+]

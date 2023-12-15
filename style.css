@@ -1,0 +1,31 @@
+body {
+    font-family: 'Arial', sans-serif;
+    direction: rtl; /* קביעת כיווניות מימין לשמאל */
+}
+
+.quiz-container {
+    width: 50%;
+    margin: auto;
+    text-align: right;
+}
+
+/* סגנון רגיל לכפתורים */
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px; /* פדינג נוסף לנוחות */
+    font-size: 16px; /* גודל פונט בסיסי */
+    cursor: pointer; /* סמן כפתור */
+}
+
+/* סגנונות עבור מסכים קטנים (לדוגמה: טלפונים) */
+@media (max-width: 600px) {
+    button {
+        font-size: 20px; /* גודל פונט גדול יותר */
+        padding: 15px 30px; /* פדינג גדול יותר */
+    }
+
+    .quiz-container {
+        width: 80%; /* רוחב רחב יותר לקונטיינר על מסכים קטנים */
+    }
+}
